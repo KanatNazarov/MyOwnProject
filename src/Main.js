@@ -21,7 +21,7 @@ const Main = () => {
             <div className="home">
                 <div className="menu">
                     <div className="name">
-                        <h3>Koala</h3>
+                        <h3>hey,Koala!</h3>
                         <input className="search" placeholder={ +996 } type="text" />
                         <a href>
                             <div className="pointer" />
